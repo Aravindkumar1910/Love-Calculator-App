@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Tkinter generated
+*.tkinter
+
+# Optional background assets (uncomment if you don't want to track them)
+# love_bg.gif
+# love_bg.png
+
+# OS-specific
+desktop.ini
